@@ -1,4 +1,4 @@
-EchoEdgeGPU – High-Performance Image Processing with CUDA
+### EchoEdgeGPU – High-Performance Image Processing with CUDA
 🚀 Overview
 
 EchoEdgeGPU is a GPU-accelerated image-processing pipeline built using CUDA C++, implementing high-performance Blur and Sobel Edge Detection kernels.
@@ -51,4 +51,5 @@ EchoEdgeGPU/
 -No external libs
 -Uses lightweight PPM loader
 -Easily runnable in any CUDA environment
+
 
